@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my personal website. I host my applications at https://app.dorper.me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[carverh@protonmail.com](mailto:carverh@protonmail.com)
