@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is my personal website. I host my applications at https://app.dorper.me.
+This is my personal website. I host my applications at https://apps.dorper.me.
 
 ### Contact me
 
